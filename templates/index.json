@@ -45,7 +45,7 @@
         "heading-3": {
           "type": "heading",
           "settings": {
-            "heading": "Timeless pieces to treasure forever",
+            "heading": "QUALITÄT, DIE BLEIBT",
             "heading_font_size": "heading-x-small"
           }
         },
@@ -62,7 +62,7 @@
         "heading-4": {
           "type": "heading",
           "settings": {
-            "heading": "Ethical sourcing and manufacturing",
+            "heading": "GEMACHT FÜR BEWEGUNG",
             "heading_font_size": "heading-x-small"
           }
         },
@@ -79,7 +79,24 @@
         "heading-5": {
           "type": "heading",
           "settings": {
-            "heading": "Sustainable heirlooms",
+            "heading": "KOMFORT, DER BEGEISTERT",
+            "heading_font_size": "heading-x-small"
+          }
+        },
+        "text_HV4nc7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-x-large",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "heading_dfNNhp": {
+          "type": "heading",
+          "settings": {
+            "heading": "FÜR JEDE FIGUR GEMACHT",
             "heading_font_size": "heading-x-small"
           }
         }
@@ -90,7 +107,9 @@
         "text-4",
         "heading-4",
         "text-5",
-        "heading-5"
+        "heading-5",
+        "text_HV4nc7",
+        "heading_dfNNhp"
       ],
       "settings": {
         "slider_speed": 7,
@@ -118,7 +137,7 @@
             "overlay_type": "disabled",
             "description": "",
             "color": "",
-            "link_text": "View products",
+            "link_text": "Produkte ansehen",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
@@ -136,7 +155,7 @@
             "overlay_type": "disabled",
             "description": "",
             "color": "",
-            "link_text": "View products",
+            "link_text": "Produkte ansehen",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
@@ -154,7 +173,7 @@
             "overlay_type": "disabled",
             "description": "",
             "color": "",
-            "link_text": "View products",
+            "link_text": "Produkte ansehen",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
@@ -172,7 +191,7 @@
             "overlay_type": "disabled",
             "description": "",
             "color": "",
-            "link_text": "View products",
+            "link_text": "Produkte ansehen",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
@@ -190,7 +209,7 @@
             "overlay_type": "disabled",
             "description": "",
             "color": "",
-            "link_text": "View products",
+            "link_text": "Produkte ansehen",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
@@ -291,7 +310,7 @@
         "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
-        "aspect_ratio": 1,
+        "aspect_ratio": 1.5,
         "width": "wrapper--full-padded",
         "layout": "slider",
         "grid": 4,
@@ -308,14 +327,14 @@
         "subheading": {
           "type": "subheading",
           "settings": {
-            "subheading": "Trends & Tradition",
+            "subheading": "NUR DAS BESTE FÜR DICH",
             "padding_bottom": 6
           }
         },
         "heading-2": {
           "type": "heading",
           "settings": {
-            "title": "For Everyday Wear",
+            "title": "GEMACHT FÜR BEWEGUNG. GELIEBT IM ALLTAG.",
             "heading_font_size": "heading-medium",
             "padding_bottom": 16,
             "heading_tag": "automatic"
@@ -324,7 +343,7 @@
         "text-2": {
           "type": "text",
           "settings": {
-            "text": "<p>From dainty classics that are perfect for daily adornment to chic, to trendsetting pieces designed to complement any occasion – our selection blends exquisite craftsmanship with modern sensibility.</p>",
+            "text": "<p>Von der ersten Einheit bis zum letzten Schritt des Tages — JIMFAMBIZ Wear sitzt, hält und sieht dabei gut aus. Sportswear, die sich deinem Leben anpasst, nicht umgekehrt.</p>",
             "text_font_size": "body-medium",
             "padding_bottom": 24
           }
@@ -340,7 +359,7 @@
         "buttons": {
           "type": "buttons",
           "settings": {
-            "button_text": "Shop all products",
+            "button_text": "ALLE PRODUKTE ENTDECKEN",
             "button_url": "",
             "button_type": "btn--primary",
             "button_size": "",
@@ -376,17 +395,17 @@
       "type": "section-custom-code",
       "name": "Custom code",
       "settings": {
-        "code": "<section id=\"shopify-section-template--28477315285325__video_with_stats_ywdKkK\" class=\"shopify-section section\"> \n\n\n<style data-shopify=\"\">\n #shopify-section-template--28477315285325__video_with_stats_ywdKkK .custom-bg{\n  background-color:#f7f7f7;\n\n }\n  .content-row-customvideogridpuqkxr {\n    display: flex;\n    background-color: #ffffff;\n    border-radius: 12px;\n    overflow: hidden;\n    border: 1px solid #E0E0E0;\n    padding: 24px;\n  }\n\n  .image-column-customvideogridpuqkxr {\n    width: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    padding: 0px;\n  }\n\n  .image-wrapper-customvideogridpuqkxr {\n    width: 100%;\n    height: 100%;\n    min-height: 400px;\n    display: flex;\n    align-items: center;\n    justify-content: center;}\n\n  .image-wrapper-customvideogridpuqkxr img {\n    width: 100%;\n    height: 100%;\n    object-fit: contain;\n    border-radius: 4px;\n    display:block;\n  }\n\n  .image-placeholder-customvideogridpuqkxr {\n    width: 100%;\n    height: 100%;\n    background-color: #f4f4f4;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 4px;\n  }\n\n  .image-placeholder-customvideogridpuqkxr svg {\n    width: 100%;\n    height: 100%;\n    max-width: 200px;\n    max-height: 200px;\n    opacity: 0.5;\n  }\n\n  .text-column-customvideogridpuqkxr {\n    width: 50%;\n    display: flex;\n    align-items: center;\n    padding: 0px;\n  }\n\n  .text-content-customvideogridpuqkxr {\n    width: 100%;\n    display: flex;\n    flex-direction: column;\n    gap: 50px;\n        padding: 0px 60px;\n  }\n\n  .title-section-customvideogridpuqkxr {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n  }\n\n  .title-section-customvideogridpuqkxr h2 {\n    margin: 0;\n    \n    color: #000000;\n        line-height: normal;\n  }\n\n  .title-section-customvideogridpuqkxr .rich-text {\n    color: #1c1c1c;\n  }\n\n  .percentage-section-customvideogridpuqkxr {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .percentage-circle-customvideogridpuqkxr {\n    position: relative;\n    width: 90px;\n    height: 90px;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    font-size: 24px;\n    font-weight: 600;\n    color: #1c1c1c;\n    background: conic-gradient(\n      from 0deg,\n      #f7f7f7 0deg,\n      #f7f7f7 360deg\n    );}\n\n  .percentage-circle-customvideogridpuqkxr::before {\n    content: '';\n    position: absolute;\n    top: 8px;\n    left: 8px;\n    right: 8px;\n    bottom: 8px;\n    background-color: #ffffff;\n    border-radius: 50%;\n    z-index: 1;\n  }\n\n  .percentage-text-customvideogridpuqkxr {\n    position: relative;\n    z-index: 2;\n  }\n\n  .percentage-description-customvideogridpuqkxr {\n    flex: 1;\n    color: #1c1c1c;}\n\n  .additional-content-customvideogridpuqkxr {\n    padding-left: 50px;}\n\n  .additional-content-customvideogridpuqkxr p {\n    margin: 0 0 25px 0;\n    color: #1c1c1c;\n  }\n\n  .additional-content-customvideogridpuqkxr p:last-child {\n    margin-bottom: 0;\n  }\n\n  .additional-content-customvideogridpuqkxr p:empty {\n    height: 25px;\n  }\n\n  @media screen and (max-width: 768px) {\n     \n      .text-content-customvideogridpuqkxr {\n \n        padding: 0px;\n  }\n\n    .section-spacing-customvideogridpuqkxr {\n      padding: 40px 0;\n    }\n\n    .container-customvideogridpuqkxr {\n      padding: 0 15px;\n    }\n\n    .content-row-customvideogridpuqkxr {\n      flex-direction: column;min-height: auto;\n      padding: 15px 15px 25px 15px;\n    }\n\n    .image-column-customvideogridpuqkxr,\n    .text-column-customvideogridpuqkxr {\n      width: 100%;\n    }\n\n    .image-wrapper-customvideogridpuqkxr {\n      min-height: auto;\n    }\n\n    .text-column-customvideogridpuqkxr {\n      padding: 40px 30px;\n    }\n\n    .text-content-customvideogridpuqkxr {\n      gap: 35px;\n    }\n\n    .percentage-section-customvideogridpuqkxr {\n      \n      align-items: center;\n      gap: 15px;\n    }\n\n    .additional-content-customvideogridpuqkxr {\n      padding-left: 0px;\n    }\n     .text-column-customvideogridpuqkxr {\n     padding: 0px 0px;\n        padding-top: 30px;\n    }\n\n.f-20 {\n   font-size:20px;\n}\n  }\n\n  @media screen and (max-width: 480px) {\n    .text-column-customvideogridpuqkxr {\n     padding: 0px 0px;\n        padding-top: 30px;\n    }\n\n    .percentage-circle-customvideogridpuqkxr {\n      width: 70px;\n      height: 70px;\n      font-size: 20px;\n    }\n\n    .percentage-circle-customvideogridpuqkxr::before {\n      top: 6px;\n      left: 6px;\n      right: 6px;\n      bottom: 6px;\n    }\n  }\n</style>\n\n<progress-animation-customvideogridpuqkxr>\n  <div class=\"section-spacing custom-bg\">\n  <div class=\"container\"> \n    <div class=\"content-row-customvideogridpuqkxr\">\n      <div class=\"image-column-customvideogridpuqkxr\">\n        <div class=\"image-wrapper-customvideogridpuqkxr\">\n          \n            <img src=\"//www.optivesportswear.com/cdn/shop/files/Optive_Sportswear_Redesign_Frame_39973.jpg?v=1756378763&amp;width=600\" alt=\"\" loading=\"lazy\" width=\"1468\" height=\"970\">\n          \n        </div>\n      </div>\n\n      <div class=\"text-column-customvideogridpuqkxr\">\n        <div class=\"text-content-customvideogridpuqkxr\">\n          \n            <div class=\"title-section-customvideogridpuqkxr\">\n              \n                <h2 class=\"h2\" style=\"margin-top:0px; \">Warum OPTIVE einen Unterschied macht?</h2>\n              \n              \n                <div class=\"rich-text f-16\"><p><strong>Unser Versprechen an dich:</strong> It’s not just how it looks, it’s how it makes you feel.</p></div>\n              \n            </div>\n          \n\n          \n            <div class=\"percentage-section-customvideogridpuqkxr\">\n              <div class=\"percentage-circle-customvideogridpuqkxr\" data-percentage=\"93\" style=\"background: conic-gradient(rgb(212, 237, 218) 0deg, rgb(212, 237, 218) 334.8deg, rgb(247, 247, 247) 334.8deg, rgb(247, 247, 247) 360deg);\">\n                <span class=\"percentage-text-customvideogridpuqkxr f-20\">93%</span>\n              </div>\n              \n                <div class=\"percentage-description-customvideogridpuqkxr f-16\"><p><strong>der Kunden berichten</strong> dass sie sich in OPTIVE deutlich wohler fühlen als in ihrer bisherigen Sportswear.</p></div>\n              \n            </div>\n          \n\n          \n            <div class=\"additional-content-customvideogridpuqkxr f-16\">\n              <p><strong>Quality first</strong> Unsere Materialien fühlen sich nicht nur weich an, sondern halten auch lange und bleiben in Form – ganz egal, wie oft du sie trägst.</p><p><strong>Form follows function</strong> Unsere Schnitte sind gemacht für Bewegung. Kein Zwicken, kein Verrutschen – nur Komfort, der sich deinem Alltag anpasst.<br><br><strong>Designed for every body</strong> OPTIVE passt sich dir an, nicht umgekehrt. Für jede Figur, jede Größe, jedes Gefühl von Selbstbewusstsein.</p>\n            </div>\n          \n        </div>\n      </div>\n    </div>\n  </div>\n  </div>\n</progress-animation-customvideogridpuqkxr>\n\n<script>\n  (function() {\n    class ProgressAnimationcustomvideogridpuqkxr extends HTMLElement {\n      constructor() {\n        super();\n        this.hasAnimated = false;}\n\n      connectedCallback() {\n        this.setupIntersectionObserver();}\n\n      setupIntersectionObserver() {\n        const options = {\n          threshold: 0.5,\n          rootMargin: '0px 0px -50px 0px'\n        };\n\n        const observer = new IntersectionObserver((entries) => {\n          entries.forEach(entry => {\n            if (entry.isIntersecting && !this.hasAnimated) {\n              this.animateProgress();\n              this.hasAnimated = true;\n            }\n          });\n        }, options);\n\n        observer.observe(this);\n      }\n\n      animateProgress() {\n        const circle = this.querySelector('.percentage-circle-customvideogridpuqkxr');\n        if (!circle) return;\n\n        const percentage = parseInt(circle.dataset.percentage) || 0;\n        circle.style.background = `conic-gradient(\n          from 0deg,\n          #f7f7f7 0deg,\n          #f7f7f7 360deg\n        )`;\n\n        let currentPercentage = 0;\n        const increment = percentage / 60;\n        const duration = 2000;\n        const stepTime = duration / 60;\n\n        const timer = setInterval(() => {\n          currentPercentage += increment;\n          if (currentPercentage >= percentage) {\n            currentPercentage = percentage;\n            clearInterval(timer);\n          }\n\n          circle.style.background = `conic-gradient(\n            from 0deg,\n            #d4edda 0deg,\n            #d4edda ${currentPercentage * 3.6}deg,\n            #f7f7f7 ${currentPercentage * 3.6}deg,\n            #f7f7f7 360deg\n          )`;\n        }, stepTime);\n      }\n    }\n\n    customElements.define('progress-animation-customvideogridpuqkxr', ProgressAnimationcustomvideogridpuqkxr);\n  })();\n</script>\n\n\n</section>",
+        "code": "<section id=\"shopify-section-jimfambiz__video_with_stats\" class=\"shopify-section section\"> \n\n\n<style data-shopify=\"\">\n #shopify-section-jimfambiz__video_with_stats .custom-bg{\n  background-color:#f7f7f7;\n\n }\n  .content-row-customvideogridpuqkxr {\n    display: flex;\n    background-color: #ffffff;\n    border-radius: 12px;\n    overflow: hidden;\n    border: 1px solid #E0E0E0;\n    padding: 24px;\n  }\n\n  .image-column-customvideogridpuqkxr {\n    width: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    padding: 0px;\n  }\n\n  .image-wrapper-customvideogridpuqkxr {\n    width: 100%;\n    height: 100%;\n    min-height: 400px;\n    display: flex;\n    align-items: center;\n    justify-content: center;}\n\n  .image-wrapper-customvideogridpuqkxr img {\n    width: 100%;\n    height: 100%;\n    object-fit: contain;\n    border-radius: 4px;\n    display:block;\n  }\n\n  .image-placeholder-customvideogridpuqkxr {\n    width: 100%;\n    height: 100%;\n    background-color: #f4f4f4;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 4px;\n  }\n\n  .image-placeholder-customvideogridpuqkxr svg {\n    width: 100%;\n    height: 100%;\n    max-width: 200px;\n    max-height: 200px;\n    opacity: 0.5;\n  }\n\n  .text-column-customvideogridpuqkxr {\n    width: 50%;\n    display: flex;\n    align-items: center;\n    padding: 0px;\n  }\n\n  .text-content-customvideogridpuqkxr {\n    width: 100%;\n    display: flex;\n    flex-direction: column;\n    gap: 50px;\n        padding: 0px 60px;\n  }\n\n  .title-section-customvideogridpuqkxr {\n    display: flex;\n    flex-direction: column;\n    gap: 10px;\n  }\n\n  .title-section-customvideogridpuqkxr h2 {\n    margin: 0;\n    \n    color: #000000;\n        line-height: normal;\n  }\n\n  .title-section-customvideogridpuqkxr .rich-text {\n    color: #1c1c1c;\n  }\n\n  .percentage-section-customvideogridpuqkxr {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .percentage-circle-customvideogridpuqkxr {\n    position: relative;\n    width: 90px;\n    height: 90px;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    font-size: 24px;\n    font-weight: 600;\n    color: #1c1c1c;\n    background: conic-gradient(\n      from 0deg,\n      #f7f7f7 0deg,\n      #f7f7f7 360deg\n    );}\n\n  .percentage-circle-customvideogridpuqkxr::before {\n    content: '';\n    position: absolute;\n    top: 8px;\n    left: 8px;\n    right: 8px;\n    bottom: 8px;\n    background-color: #ffffff;\n    border-radius: 50%;\n    z-index: 1;\n  }\n\n  .percentage-text-customvideogridpuqkxr {\n    position: relative;\n    z-index: 2;\n  }\n\n  .percentage-description-customvideogridpuqkxr {\n    flex: 1;\n    color: #1c1c1c;}\n\n  .additional-content-customvideogridpuqkxr {\n    padding-left: 50px;}\n\n  .additional-content-customvideogridpuqkxr p {\n    margin: 0 0 25px 0;\n    color: #1c1c1c;\n  }\n\n  .additional-content-customvideogridpuqkxr p:last-child {\n    margin-bottom: 0;\n  }\n\n  .additional-content-customvideogridpuqkxr p:empty {\n    height: 25px;\n  }\n\n  @media screen and (max-width: 768px) {\n     \n      .text-content-customvideogridpuqkxr {\n \n        padding: 0px;\n  }\n\n    .section-spacing-customvideogridpuqkxr {\n      padding: 40px 0;\n    }\n\n    .container-customvideogridpuqkxr {\n      padding: 0 15px;\n    }\n\n    .content-row-customvideogridpuqkxr {\n      flex-direction: column;min-height: auto;\n      padding: 15px 15px 25px 15px;\n    }\n\n    .image-column-customvideogridpuqkxr,\n    .text-column-customvideogridpuqkxr {\n      width: 100%;\n    }\n\n    .image-wrapper-customvideogridpuqkxr {\n      min-height: auto;\n    }\n\n    .text-column-customvideogridpuqkxr {\n      padding: 40px 30px;\n    }\n\n    .text-content-customvideogridpuqkxr {\n      gap: 35px;\n    }\n\n    .percentage-section-customvideogridpuqkxr {\n      \n      align-items: center;\n      gap: 15px;\n    }\n\n    .additional-content-customvideogridpuqkxr {\n      padding-left: 0px;\n    }\n     .text-column-customvideogridpuqkxr {\n     padding: 0px 0px;\n        padding-top: 30px;\n    }\n\n.f-20 {\n   font-size:20px;\n}\n  }\n\n  @media screen and (max-width: 480px) {\n    .text-column-customvideogridpuqkxr {\n     padding: 0px 0px;\n        padding-top: 30px;\n    }\n\n    .percentage-circle-customvideogridpuqkxr {\n      width: 70px;\n      height: 70px;\n      font-size: 20px;\n    }\n\n    .percentage-circle-customvideogridpuqkxr::before {\n      top: 6px;\n      left: 6px;\n      right: 6px;\n      bottom: 6px;\n    }\n  }\n</style>\n\n<progress-animation-jimfambiz>\n  <div class=\"section-spacing custom-bg\">\n  <div class=\"container\"> \n    <div class=\"content-row-customvideogridpuqkxr\">\n      <div class=\"image-column-customvideogridpuqkxr\">\n        <div class=\"image-wrapper-customvideogridpuqkxr\">\n          \n            <img src=\"https://www.optivesportswear.com/cdn/shop/files/Optive_Sportswear_Redesign_Frame_39973.jpg?v=1756378763&width=600\" alt=\"JIMFAMBIZ Wear\" loading=\"lazy\" width=\"1468\" height=\"970\">\n          \n        </div>\n      </div>\n\n      <div class=\"text-column-customvideogridpuqkxr\">\n        <div class=\"text-content-customvideogridpuqkxr\">\n          \n            <div class=\"title-section-customvideogridpuqkxr\">\n              \n                <h2 class=\"h2\" style=\"margin-top:0px;\">Warum JIMFAMBIZ Wear einen Unterschied macht?</h2>\n              \n              \n                <div class=\"rich-text f-16\"><p><strong>Unser Versprechen an dich:</strong> It's not just how it looks, it's how it makes you feel.</p></div>\n              \n            </div>\n          \n\n          \n            <div class=\"percentage-section-customvideogridpuqkxr\">\n              <div class=\"percentage-circle-customvideogridpuqkxr\" data-percentage=\"93\" style=\"background: conic-gradient(rgb(212, 237, 218) 0deg, rgb(212, 237, 218) 334.8deg, rgb(247, 247, 247) 334.8deg, rgb(247, 247, 247) 360deg);\">\n                <span class=\"percentage-text-customvideogridpuqkxr f-20\">93%</span>\n              </div>\n              \n                <div class=\"percentage-description-customvideogridpuqkxr f-16\"><p><strong>der Kunden berichten,</strong> dass sie sich in JIMFAMBIZ Wear deutlich wohler fühlen als in ihrer bisherigen Sportswear.</p></div>\n              \n            </div>\n          \n\n          \n            <div class=\"additional-content-customvideogridpuqkxr f-16\">\n              <p><strong>Quality first</strong> Unsere Materialien fühlen sich nicht nur weich an, sondern halten auch lange und bleiben in Form – ganz egal, wie oft du sie trägst.</p><p><strong>Form follows function</strong> Unsere Schnitte sind gemacht für Bewegung. Kein Zwicken, kein Verrutschen – nur Komfort, der sich deinem Alltag anpasst.<br><br><strong>Designed for every body</strong> JIMFAMBIZ Wear passt sich dir an, nicht umgekehrt. Für jede Figur, jede Größe, jedes Gefühl von Selbstbewusstsein.</p>\n            </div>\n          \n        </div>\n      </div>\n    </div>\n  </div>\n  </div>\n</progress-animation-jimfambiz>\n\n<script>\n  (function() {\n    class ProgressAnimationJimfambiz extends HTMLElement {\n      constructor() {\n        super();\n        this.hasAnimated = false;}\n\n      connectedCallback() {\n        this.setupIntersectionObserver();}\n\n      setupIntersectionObserver() {\n        const options = {\n          threshold: 0.5,\n          rootMargin: '0px 0px -50px 0px'\n        };\n\n        const observer = new IntersectionObserver((entries) => {\n          entries.forEach(entry => {\n            if (entry.isIntersecting && !this.hasAnimated) {\n              this.animateProgress();\n              this.hasAnimated = true;\n            }\n          });\n        }, options);\n\n        observer.observe(this);\n      }\n\n      animateProgress() {\n        const circle = this.querySelector('.percentage-circle-customvideogridpuqkxr');\n        if (!circle) return;\n\n        const percentage = parseInt(circle.dataset.percentage) || 0;\n        circle.style.background = `conic-gradient(\n          from 0deg,\n          #f7f7f7 0deg,\n          #f7f7f7 360deg\n        )`;\n\n        let currentPercentage = 0;\n        const increment = percentage / 60;\n        const duration = 2000;\n        const stepTime = duration / 60;\n\n        const timer = setInterval(() => {\n          currentPercentage += increment;\n          if (currentPercentage >= percentage) {\n            currentPercentage = percentage;\n            clearInterval(timer);\n          }\n\n          circle.style.background = `conic-gradient(\n            from 0deg,\n            #d4edda 0deg,\n            #d4edda ${currentPercentage * 3.6}deg,\n            #f7f7f7 ${currentPercentage * 3.6}deg,\n            #f7f7f7 360deg\n          )`;\n        }, stepTime);\n      }\n    }\n\n    customElements.define('progress-animation-jimfambiz', ProgressAnimationJimfambiz);\n  })();\n</script>\n\n\n</section>",
         "width": "wrapper",
         "color_scheme": "",
         "padding_top": 16,
         "padding_bottom": 27
       }
     },
-    "section_announcement_ztrq4M": {
+    "section_announcement_TBRUEA": {
       "type": "section-announcement",
       "blocks": {
-        "text_abxy9F": {
+        "text_hnMPzc": {
           "type": "text",
           "settings": {
             "text": "<p>•</p>",
@@ -396,14 +415,14 @@
             "target_device": "mobile"
           }
         },
-        "heading_LQ8nmN": {
+        "heading_mUtzqr": {
           "type": "heading",
           "settings": {
-            "heading": "Timeless pieces to treasure forever",
+            "heading": "QUALITÄT, DIE BLEIBT",
             "heading_font_size": "heading-x-small"
           }
         },
-        "text_PtcFti": {
+        "text_yEGynz": {
           "type": "text",
           "settings": {
             "text": "<p>•</p>",
@@ -413,14 +432,14 @@
             "target_device": "mobile"
           }
         },
-        "heading_ynbTLz": {
+        "heading_hJy3Px": {
           "type": "heading",
           "settings": {
-            "heading": "Ethical sourcing and manufacturing",
+            "heading": "GEMACHT FÜR BEWEGUNG",
             "heading_font_size": "heading-x-small"
           }
         },
-        "text_qVnd64": {
+        "text_HX6gMT": {
           "type": "text",
           "settings": {
             "text": "<p>•</p>",
@@ -430,21 +449,40 @@
             "target_device": "mobile"
           }
         },
-        "heading_i9QVAm": {
+        "heading_hkmCNK": {
           "type": "heading",
           "settings": {
-            "heading": "Sustainable heirlooms",
+            "heading": "KOMFORT, DER BEGEISTERT",
+            "heading_font_size": "heading-x-small"
+          }
+        },
+        "text_GQbiyN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-x-large",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "heading_JkLfy8": {
+          "type": "heading",
+          "settings": {
+            "heading": "FÜR JEDE FIGUR GEMACHT",
             "heading_font_size": "heading-x-small"
           }
         }
       },
       "block_order": [
-        "text_abxy9F",
-        "heading_LQ8nmN",
-        "text_PtcFti",
-        "heading_ynbTLz",
-        "text_qVnd64",
-        "heading_i9QVAm"
+        "text_hnMPzc",
+        "heading_mUtzqr",
+        "text_yEGynz",
+        "heading_hJy3Px",
+        "text_HX6gMT",
+        "heading_hkmCNK",
+        "text_GQbiyN",
+        "heading_JkLfy8"
       ],
       "settings": {
         "slider_speed": 7,
@@ -463,7 +501,7 @@
       "type": "section-custom-code",
       "name": "Custom code",
       "settings": {
-        "code": "<div id=\"shopify-section-template--28477315285325__custom_text_blocks_k8N7BX\" class=\"shopify-section\">\n\n\n\n<style data-shopify=\"\">\n.benefits-section-template--28477315285325customtextblocksk8n7bx {\n  background: #ffffff;\n  \n}\n.benefits-section-template--28477315285325customtextblocksk8n7bx h2.h2{\n  font-size:28px !important;\n\n}\n\n.benefits-heading-template--28477315285325customtextblocksk8n7bx {\n  text-align: center;\n  color: ;\n  font-size: px;\n  margin: 0 0 10px;\n  font-weight: bold;\n}\n.benefits-richtext-template--28477315285325customtextblocksk8n7bx {\n  text-align: center;\n  margin: 0 0 10px 0;\n}\n.benefits-grid-template--28477315285325customtextblocksk8n7bx {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 30px;\n}\n.benefit-card-template--28477315285325customtextblocksk8n7bx {\n  background: #f7f7f7;\n  border-radius: 12px;\n  padding: 40px 30px;\n  text-align: center;\n  transition: box-shadow .3s, background .3s, transform .3s;\n  cursor: pointer;\n  display: flex;\n  flex-direction: column;\n  min-height: 100%;\n  height: 100%;\n  justify-content: flex-start;\n  border: 1px solid #E0E0E0;\n}\n.benefit-card-template--28477315285325customtextblocksk8n7bx:hover {\n  background: #ffffff;\n  box-shadow: 0 10px 30px rgba(0,0,0,0.08);\n  transform: translateY(-2px);\n}\n.benefit-percentage-template--28477315285325customtextblocksk8n7bx {\n  font-size: 60px;\n  font-weight: 600;\n  color: #000000;\n  margin-bottom: 10px;\n  line-height: 1;\n}\n.benefit-title-template--28477315285325customtextblocksk8n7bx {\n  \n  font-weight: 100;\n  color: #1c1c1c;\n  margin-bottom: 0px;\n  line-height: 1.2;\n}\n.benefit-note-template--28477315285325customtextblocksk8n7bx {\n \n  color: #818181;\n  margin-top: auto;\n  margin-bottom: 0;\n  padding-top: 30px;\n  line-height: 1.4;\n}\n\n/* Swiper for mobile only */\n.benefits-swiper-template--28477315285325customtextblocksk8n7bx { display: none; }\n\n@media screen and (max-width: 900px) {\n  .benefits-grid-template--28477315285325customtextblocksk8n7bx { grid-template-columns: 1fr 1fr; }\n}\n@media screen and (max-width: 768px) {\n  .benefits-grid-template--28477315285325customtextblocksk8n7bx { display: none; }\n  .benefits-swiper-template--28477315285325customtextblocksk8n7bx { display: block; }\n  .benefit-card-template--28477315285325customtextblocksk8n7bx { padding: 30px 20px; }\n}\n\n/* Swiper styles */\n.benefits-swiper-instance-template--28477315285325customtextblocksk8n7bx {\n  position: relative;\n\n}\n.benefits-swiper-template--28477315285325customtextblocksk8n7bx .swiper-slide {\n  display: flex;\n  height: auto;\n}\n.benefits-swiper-template--28477315285325customtextblocksk8n7bx .benefit-card-template--28477315285325customtextblocksk8n7bx {\n  width: 100%;\n  min-height: 100%;\n}\n\n/* Arrows below */\n.benefits-arrows-template--28477315285325customtextblocksk8n7bx {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px;\n  margin-top: 50px;\n}\n.benefits-arrow-btn-template--28477315285325customtextblocksk8n7bx {\n  width: 44px; height: 44px; border-radius: 50%;\n  background: #f6f6f6;\n  display: flex; align-items: center; justify-content: center;\n  border: none; cursor: pointer; transition: background .2s;\n}\n.benefits-arrow-btn-template--28477315285325customtextblocksk8n7bx:hover {\n  background: #e0e0e0;\n}\n.benefits-arrow-btn-template--28477315285325customtextblocksk8n7bx svg {\n  width: 16px; height: 16px;\n  fill: #1c1c1c;\n}\n.benefits-arrow-btn-template--28477315285325customtextblocksk8n7bx.swiper-button-disabled { opacity: 0.5; cursor: not-allowed; }\n</style>\n<div class=\"section-spacing benefits-section-template--28477315285325customtextblocksk8n7bx \">\n  <div class=\"container\" id=\"innerwraper\">\n<div class=\"\">\n   <div class=\"section-stack\">\n  <div class=\"section-header justify-self-center text-center\"><div class=\"prose\"><h2 class=\"h2\">Echte Kunden, echte Ergebnisse</h2></div></div><div class=\"swiper-wd\">\n    <!-- Desktop Grid -->\n    <div class=\"benefits-grid-template--28477315285325customtextblocksk8n7bx\">\n      \n      <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n        <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">93%</div>\n        <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">fühlen sich in OPTIVE deutlich wohler als in ihrer bisherigen Sportswear</div>\n        <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n      </div>\n      \n      <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n        <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">88%</div>\n        <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">geben an, dass der Tragekomfort sie beim Training motivierter fühlen lässt</div>\n        <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n      </div>\n      \n      <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n        <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">91%</div>\n        <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">sagen, dass sie OPTIVE auch im Alltag tragen, weil es so bequem ist</div>\n        <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n      </div>\n      \n    </div>\n\n    <!-- Swiper Slider Mobile -->\n    <div class=\"benefits-swiper-template--28477315285325customtextblocksk8n7bx \">\n      <div class=\"swiper benefits-swiper-instance-template--28477315285325customtextblocksk8n7bx swiper-initialized swiper-horizontal\">\n        <div class=\"swiper-wrapper\" id=\"swiper-wrapper-8bb6106ea62f370a6\" aria-live=\"polite\" style=\"transition-duration: 0ms; transition-delay: 0ms;\">\n          \n          <div class=\"swiper-slide\" data-swiper-slide-index=\"0\" role=\"group\" aria-label=\"1 / 3\">\n            <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n              <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">93%</div>\n              <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">fühlen sich in OPTIVE deutlich wohler als in ihrer bisherigen Sportswear</div>\n              <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n          </div>\n          \n          <div class=\"swiper-slide\" data-swiper-slide-index=\"1\" role=\"group\" aria-label=\"2 / 3\">\n            <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n              <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">88%</div>\n              <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">geben an, dass der Tragekomfort sie beim Training motivierter fühlen lässt</div>\n              <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n          </div>\n          \n          <div class=\"swiper-slide\" data-swiper-slide-index=\"2\" role=\"group\" aria-label=\"3 / 3\">\n            <div class=\"benefit-card-template--28477315285325customtextblocksk8n7bx\">\n              <div class=\"benefit-percentage-template--28477315285325customtextblocksk8n7bx\">91%</div>\n              <div class=\"benefit-title-template--28477315285325customtextblocksk8n7bx f-16\">sagen, dass sie OPTIVE auch im Alltag tragen, weil es so bequem ist</div>\n              <div class=\"benefit-note-template--28477315285325customtextblocksk8n7bx f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n          </div>\n          \n        </div>\n      <span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span></div>\n     <!-- Swiper Arrows Below -->\n     \n    </div>\n      </div>\n       \n      \n  </div>\n</div>\n</div>\n</div>\n<script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n  if (window.Swiper) {\n    var swiper = new Swiper('.benefits-swiper-instance-template--28477315285325customtextblocksk8n7bx', {\n      slidesPerView: 3,\n      spaceBetween: 30,\n      loop: true,\n      navigation: {\n        nextEl: '.custom-swiper-nex',\n        prevEl: '.custom-swiper-pre',\n      },\n      breakpoints: {\n        0: {\n          slidesPerView: 1,\n          spaceBetween: 0,\n        },\n        900: {\n          slidesPerView: 3,\n          spaceBetween: 30,\n        }\n      }\n    });\n\n    // Shopify Design Mode Fix\n    if (window.Shopify && window.Shopify.designMode) {\n      document.addEventListener('shopify:section:load', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n      document.addEventListener('shopify:block:select', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n      document.addEventListener('shopify:block:deselect', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n    }\n  }\n});\n</script>\n\n\n\n</div>",
+        "code": "<div id=\"shopify-section-jimfambiz__custom_text_blocks\" class=\"shopify-section\">\n\n<style data-shopify=\"\">\n.benefits-section-jimfambizstatscards {\n  background: #ffffff;\n}\n.benefits-section-jimfambizstatscards h2.h2{\n  font-size:28px !important;\n}\n.benefits-heading-jimfambizstatscards {\n  text-align: center;\n  color: ;\n  font-size: px;\n  margin: 0 0 10px;\n  font-weight: bold;\n}\n.benefits-richtext-jimfambizstatscards {\n  text-align: center;\n  margin: 0 0 10px 0;\n}\n.benefits-grid-jimfambizstatscards {\n  display: grid;\n  grid-template-columns: repeat(3, 1fr);\n  gap: 30px;\n}\n.benefit-card-jimfambizstatscards {\n  background: #f7f7f7;\n  border-radius: 12px;\n  padding: 40px 30px;\n  text-align: center;\n  transition: box-shadow .3s, background .3s, transform .3s;\n  cursor: pointer;\n  display: flex;\n  flex-direction: column;\n  min-height: 100%;\n  height: 100%;\n  justify-content: flex-start;\n  border: 1px solid #E0E0E0;\n}\n.benefit-card-jimfambizstatscards:hover {\n  background: #ffffff;\n  box-shadow: 0 10px 30px rgba(0,0,0,0.08);\n  transform: translateY(-2px);\n}\n.benefit-percentage-jimfambizstatscards {\n  font-size: 60px;\n  font-weight: 600;\n  color: #000000;\n  margin-bottom: 10px;\n  line-height: 1;\n}\n.benefit-title-jimfambizstatscards {\n  font-weight: 100;\n  color: #1c1c1c;\n  margin-bottom: 0px;\n  line-height: 1.2;\n}\n.benefit-note-jimfambizstatscards {\n  color: #818181;\n  margin-top: auto;\n  margin-bottom: 0;\n  padding-top: 30px;\n  line-height: 1.4;\n}\n\n.benefits-swiper-jimfambizstatscards { display: none; }\n\n@media screen and (max-width: 900px) {\n  .benefits-grid-jimfambizstatscards { grid-template-columns: 1fr 1fr; }\n}\n@media screen and (max-width: 768px) {\n  .benefits-grid-jimfambizstatscards { display: none; }\n  .benefits-swiper-jimfambizstatscards { display: block; }\n  .benefit-card-jimfambizstatscards { padding: 30px 20px; }\n}\n\n.benefits-swiper-instance-jimfambizstatscards {\n  position: relative;\n}\n.benefits-swiper-jimfambizstatscards .swiper-slide {\n  display: flex;\n  height: auto;\n}\n.benefits-swiper-jimfambizstatscards .benefit-card-jimfambizstatscards {\n  width: 100%;\n  min-height: 100%;\n}\n\n.benefits-arrows-jimfambizstatscards {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px;\n  margin-top: 50px;\n}\n.benefits-arrow-btn-jimfambizstatscards {\n  width: 44px; height: 44px; border-radius: 50%;\n  background: #f6f6f6;\n  display: flex; align-items: center; justify-content: center;\n  border: none; cursor: pointer; transition: background .2s;\n}\n.benefits-arrow-btn-jimfambizstatscards:hover {\n  background: #e0e0e0;\n}\n.benefits-arrow-btn-jimfambizstatscards svg {\n  width: 16px; height: 16px;\n  fill: #1c1c1c;\n}\n.benefits-arrow-btn-jimfambizstatscards.swiper-button-disabled { opacity: 0.5; cursor: not-allowed; }\n</style>\n\n<div class=\"section-spacing benefits-section-jimfambizstatscards\">\n  <div class=\"container\" id=\"innerwraper\">\n    <div class=\"\">\n      <div class=\"section-stack\">\n        <div class=\"section-header justify-self-center text-center\">\n          <div class=\"prose\"><h2 class=\"h2\">Echte Kunden, echte Ergebnisse</h2></div>\n        </div>\n        <div class=\"swiper-wd\">\n\n          <!-- Desktop Grid -->\n          <div class=\"benefits-grid-jimfambizstatscards\">\n\n            <div class=\"benefit-card-jimfambizstatscards\">\n              <div class=\"benefit-percentage-jimfambizstatscards\">93%</div>\n              <div class=\"benefit-title-jimfambizstatscards f-16\">fühlen sich in JIMFAMBIZ Wear deutlich wohler als in ihrer bisherigen Sportswear</div>\n              <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n\n            <div class=\"benefit-card-jimfambizstatscards\">\n              <div class=\"benefit-percentage-jimfambizstatscards\">88%</div>\n              <div class=\"benefit-title-jimfambizstatscards f-16\">geben an, dass der Tragekomfort sie beim Training motivierter fühlen lässt</div>\n              <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n\n            <div class=\"benefit-card-jimfambizstatscards\">\n              <div class=\"benefit-percentage-jimfambizstatscards\">91%</div>\n              <div class=\"benefit-title-jimfambizstatscards f-16\">sagen, dass sie JIMFAMBIZ Wear auch im Alltag tragen, weil es so bequem ist</div>\n              <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n            </div>\n\n          </div>\n\n          <!-- Swiper Slider Mobile -->\n          <div class=\"benefits-swiper-jimfambizstatscards\">\n            <div class=\"swiper benefits-swiper-instance-jimfambizstatscards swiper-initialized swiper-horizontal\">\n              <div class=\"swiper-wrapper\" aria-live=\"polite\" style=\"transition-duration: 0ms; transition-delay: 0ms;\">\n\n                <div class=\"swiper-slide\" data-swiper-slide-index=\"0\" role=\"group\" aria-label=\"1 / 3\">\n                  <div class=\"benefit-card-jimfambizstatscards\">\n                    <div class=\"benefit-percentage-jimfambizstatscards\">93%</div>\n                    <div class=\"benefit-title-jimfambizstatscards f-16\">fühlen sich in JIMFAMBIZ Wear deutlich wohler als in ihrer bisherigen Sportswear</div>\n                    <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n                  </div>\n                </div>\n\n                <div class=\"swiper-slide\" data-swiper-slide-index=\"1\" role=\"group\" aria-label=\"2 / 3\">\n                  <div class=\"benefit-card-jimfambizstatscards\">\n                    <div class=\"benefit-percentage-jimfambizstatscards\">88%</div>\n                    <div class=\"benefit-title-jimfambizstatscards f-16\">geben an, dass der Tragekomfort sie beim Training motivierter fühlen lässt</div>\n                    <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n                  </div>\n                </div>\n\n                <div class=\"swiper-slide\" data-swiper-slide-index=\"2\" role=\"group\" aria-label=\"3 / 3\">\n                  <div class=\"benefit-card-jimfambizstatscards\">\n                    <div class=\"benefit-percentage-jimfambizstatscards\">91%</div>\n                    <div class=\"benefit-title-jimfambizstatscards f-16\">sagen, dass sie JIMFAMBIZ Wear auch im Alltag tragen, weil es so bequem ist</div>\n                    <div class=\"benefit-note-jimfambizstatscards f-16\">*Basierend auf einer unabhängigen Kundenumfrage im März 2026</div>\n                  </div>\n                </div>\n\n              </div>\n              <span class=\"swiper-notification\" aria-live=\"assertive\" aria-atomic=\"true\"></span>\n            </div>\n          </div>\n\n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n<script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n  if (window.Swiper) {\n    var swiper = new Swiper('.benefits-swiper-instance-jimfambizstatscards', {\n      slidesPerView: 3,\n      spaceBetween: 30,\n      loop: true,\n      navigation: {\n        nextEl: '.custom-swiper-nex',\n        prevEl: '.custom-swiper-pre',\n      },\n      breakpoints: {\n        0: {\n          slidesPerView: 1,\n          spaceBetween: 0,\n        },\n        900: {\n          slidesPerView: 3,\n          spaceBetween: 30,\n        }\n      }\n    });\n\n    if (window.Shopify && window.Shopify.designMode) {\n      document.addEventListener('shopify:section:load', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n      document.addEventListener('shopify:block:select', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n      document.addEventListener('shopify:block:deselect', function() {\n        if (swiper && swiper.update) swiper.update();\n      });\n    }\n  }\n});\n</script>\n\n</div>",
         "width": "wrapper",
         "color_scheme": "",
         "padding_top": 16,
@@ -491,7 +529,7 @@
     "section_collections_list_gtVfxd",
     "section-double",
     "section_custom_code_aihjKV",
-    "section_announcement_ztrq4M",
+    "section_announcement_TBRUEA",
     "section_custom_code_W6xhpW",
     "section-product"
   ]
