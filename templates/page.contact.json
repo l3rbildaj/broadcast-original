@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "section-divider": {
@@ -29,12 +38,6 @@
     "contact-form": {
       "type": "contact-form",
       "blocks": {
-        "formHeading": {
-          "type": "formHeading",
-          "settings": {
-            "title": "All products in this store are for demo purposes only. No orders can be placed on this store."
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -68,29 +71,14 @@
             "title": "This is urgent",
             "required": false
           }
-        },
-        "select": {
-          "type": "select",
-          "settings": {
-            "title": "Select an option",
-            "required": false,
-            "label-one": "- Pick an option -",
-            "label-two": "Option one",
-            "label-three": "Option two",
-            "label-four": "Option three",
-            "label-five": "Option four",
-            "label-six": "Option five"
-          }
         }
       },
       "block_order": [
-        "formHeading",
         "text",
         "email",
         "body",
         "formHeading-0",
-        "checkbox",
-        "select"
+        "checkbox"
       ],
       "settings": {
         "title": "",
