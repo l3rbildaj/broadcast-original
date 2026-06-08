@@ -174,26 +174,6 @@
             "bg_color": "",
             "padding_bottom": 24
           }
-        },
-        "divider-0": {
-          "type": "divider",
-          "settings": {
-            "show_line": true,
-            "padding_bottom": 16
-          }
-        },
-        "features": {
-          "type": "features",
-          "settings": {
-            "icon_name": "icon-chat",
-            "icon_size": 20,
-            "title": "Need styling help?",
-            "text_font_size": "body-medium",
-            "text": "<p>Book an appointment with our virtual stylists! <a href=\"https://broadcast-theme-main.myshopify.com/pages/contact\" title=\"https://broadcast-theme-main.myshopify.com/pages/contact\">Chat now</a></p>",
-            "bg_color": "#fcfbf9",
-            "color": "",
-            "padding_bottom": 16
-          }
         }
       },
       "block_order": [
@@ -210,9 +190,7 @@
         "buttons",
         "pickup",
         "divider",
-        "upsell",
-        "divider-0",
-        "features"
+        "upsell"
       ],
       "settings": {
         "product_sticky_enable": true,
@@ -225,7 +203,7 @@
         "mobile_image_style": "slider",
         "color_scheme": "scheme-1",
         "padding_top": 40,
-        "padding_bottom": 80
+        "padding_bottom": 0
       }
     },
     "section-announcement": {
@@ -286,275 +264,26 @@
         "padding_bottom": 20
       }
     },
-    "section-accordion": {
-      "type": "section-accordion",
-      "blocks": {
-        "text-1": {
-          "type": "text",
-          "settings": {
-            "title": "How do I take care of my jewelry?",
-            "heading_font_size": "heading-x-small",
-            "text": "<p><em><strong>14K Gold </strong></em></p><p>Scrub lightly with a fresh toothbrush and warm water. You can also buff your pieces using the cloth included in your order.</p><p><br/><em><strong>Sterling Silver</strong></em></p><p>Gently rub the surface with the  cloth included in your order.</p>"
-          }
-        },
-        "text-2": {
-          "type": "text",
-          "settings": {
-            "title": "Do you have a warranty?",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>Yes! For 3 years from the date of purchase, we’ll take care of your product if any damage to the material  occurs. Simply <a href=\"/pages/contact\" title=\"Contact\">contact us</a> and we’ll send you a replacement.</p><p>Please note: This warranty does not cover lost items, scratches that come with normal wear and tear, improper use or storage of your product, and any modification to your product done by a third party.</p>"
-          }
-        },
-        "text-3": {
-          "type": "text",
-          "settings": {
-            "title": "How do I use the polishing cloth?",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>Gently rub the surface of your piece with the polishing cloth. Never wash the polishing cloth as it will lose its effectiveness, and keep out of reach of children!</p>"
-          }
-        },
-        "text-4": {
-          "type": "text",
-          "settings": {
-            "title": "Do you create custom pieces?",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>We're not able to build custom pieces at this time. </p>"
-          }
-        }
-      },
-      "block_order": [
-        "text-1",
-        "text-2",
-        "text-3",
-        "text-4"
-      ],
+    "section_custom_code_8nHDYJ": {
+      "type": "section-custom-code",
+      "name": "Custom code",
       "settings": {
-        "default_open": false,
-        "title": "Care Instructions",
-        "heading_font_size": "heading-x-small",
-        "show_icon": false,
-        "icon_name": "icon-award",
-        "icon_size": 20,
+        "code": "<!-- ===== JIMFAMBIZ WEAR | TRUST BADGES + OFFER SECTION ===== -->\n\n<style>\n.jfw-trust-wrap {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n  font-family: inherit;\n  max-width: 600px;\n  margin: 0 auto;\n}\n\n/* Money back guarantee bar */\n.jfw-guarantee-bar {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8px;\n  font-size: 14px;\n  font-weight: 500;\n  color: #1c1c1c;\n}\n.jfw-guarantee-bar svg {\n  flex-shrink: 0;\n  color: #1c1c1c;\n}\n.jfw-guarantee-bar .jfw-info-icon {\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  width: 18px;\n  height: 18px;\n  border-radius: 50%;\n  border: 1.5px solid #888;\n  font-size: 11px;\n  color: #888;\n  cursor: pointer;\n  flex-shrink: 0;\n  font-style: italic;\n  font-weight: 600;\n}\n\n/* Offer box */\n.jfw-offer-box {\n  border: 1px solid #e0e0e0;\n  border-radius: 10px;\n  padding: 20px 24px;\n  text-align: center;\n  background: #fff;\n}\n.jfw-offer-box .jfw-offer-title {\n  font-size: 15px;\n  font-weight: 700;\n  letter-spacing: 0.04em;\n  margin: 0 0 8px;\n  color: #1c1c1c;\n}\n.jfw-offer-box .jfw-offer-body {\n  font-size: 14px;\n  color: #1c1c1c;\n  margin: 0 0 6px;\n  line-height: 1.5;\n}\n.jfw-offer-box .jfw-offer-note {\n  font-size: 13px;\n  color: #555;\n  margin: 0;\n}\n\n/* Trust bullet list */\n.jfw-trust-list {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n.jfw-trust-list li {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  font-size: 14px;\n  font-weight: 600;\n  color: #1c1c1c;\n}\n.jfw-trust-list li svg {\n  flex-shrink: 0;\n  color: #1c1c1c;\n}\n</style>\n\n<div class=\"jfw-trust-wrap\">\n\n  <!-- 14-day money back guarantee -->\n  <div class=\"jfw-guarantee-bar\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n      <path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"/><polyline points=\"22 4 12 14.01 9 11.01\"/>\n    </svg>\n    14-Tage-Geld-zurück-Garantie\n    <span class=\"jfw-info-icon\" title=\"Nicht zufrieden? Kein Problem. Sende deine Bestellung innerhalb von 14 Tagen zurück und erhalte dein Geld zurück.\">i</span>\n  </div>\n\n  <!-- BUY 3 GET 1 FREE offer box -->\n  <div class=\"jfw-offer-box\">\n    <p class=\"jfw-offer-title\">BUY 3 GET 1 FREE</p>\n    <p class=\"jfw-offer-body\">Lege 4 Artikel deiner Wahl in den Warenkorb und wir schenken dir automatisch 1 davon.</p>\n    <p class=\"jfw-offer-note\">Nur solange der Vorrat reicht.</p>\n  </div>\n\n  <!-- Trust bullet points -->\n  <ul class=\"jfw-trust-list\">\n    <li>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"/><polyline points=\"22 4 12 14.01 9 11.01\"/>\n      </svg>\n      Schnelle Lieferung – in 2–4 Werktagen bei dir\n    </li>\n    <li>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"/><polyline points=\"22 4 12 14.01 9 11.01\"/>\n      </svg>\n      Über 10.000+ zufriedene Kundinnen\n    </li>\n    <li>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"/><polyline points=\"22 4 12 14.01 9 11.01\"/>\n      </svg>\n      Einfache &amp; stressfreie Rücksendung\n    </li>\n    <li>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n        <path d=\"M22 11.08V12a10 10 0 1 1-5.93-9.14\"/><polyline points=\"22 4 12 14.01 9 11.01\"/>\n      </svg>\n      100% Zufriedenheitsversprechen\n    </li>\n  </ul>\n\n</div>",
         "width": "wrapper",
         "color_scheme": "",
-        "icon_color": "",
-        "padding_top": 80,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
-    "section-accordion-0": {
-      "type": "section-accordion",
-      "blocks": {
-        "icon-3": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-green-shipment",
-            "icon_size": 20,
-            "icon_color": "",
-            "title": "International Shipping",
-            "heading_font_size": "heading-x-small",
-            "icon_alignment": "left",
-            "text": "<p>We are happy to announce we officially ship internationally! All orders are dispatched from our US warehouse within 2 - 3 business days.</p>",
-            "text_alignment": "text-left"
-          }
-        },
-        "icon-4": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-location",
-            "icon_size": 20,
-            "icon_color": "",
-            "title": "Order tracking",
-            "heading_font_size": "heading-x-small",
-            "icon_alignment": "left",
-            "text": "<p>Tracking numbers are automatically sent as soon as your order is packed. Please check your junk folder if you do not receive one 72hrs after placing your order.</p>",
-            "text_alignment": "text-left"
-          }
-        },
-        "icon-5": {
-          "type": "icon",
-          "settings": {
-            "icon_name": "icon-chat",
-            "icon_size": 20,
-            "icon_color": "",
-            "title": "Get in touch",
-            "heading_font_size": "heading-x-small",
-            "icon_alignment": "left",
-            "text": "<p>If you have any questions about your order, please <a href=\"/pages/contact\" title=\"Contact\">contact us</a>. Our customer service is available Monday through Friday from 8am until 5pm est.</p>",
-            "text_alignment": "text-left"
-          }
-        }
-      },
-      "block_order": [
-        "icon-3",
-        "icon-4",
-        "icon-5"
-      ],
+    "section_custom_code_L84jTU": {
+      "type": "section-custom-code",
+      "name": "Custom code",
       "settings": {
-        "default_open": false,
-        "title": "Shipping  & Returns",
-        "heading_font_size": "heading-x-small",
-        "show_icon": false,
-        "icon_name": "icon-award",
-        "icon_size": 20,
+        "code": "<!DOCTYPE html>\n<html lang=\"de\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Reviews</title>\n  <style>\n    * { box-sizing: border-box; margin: 0; padding: 0; }\n\n    body {\n      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n      background: #fff;\n      color: #111;\n      padding: 32px 24px;\n    }\n\n    /* ── Header ── */\n    .reviews-header {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      margin-bottom: 24px;\n    }\n    .header-left {\n      display: flex;\n      align-items: center;\n      gap: 10px;\n    }\n    .stars-large {\n      display: flex;\n      gap: 2px;\n    }\n    .stars-large .star {\n      width: 22px;\n      height: 22px;\n      fill: #f5a623;\n    }\n    .review-count {\n      font-size: 15px;\n      font-weight: 600;\n      color: #111;\n      display: flex;\n      align-items: center;\n      gap: 4px;\n      cursor: pointer;\n    }\n    .review-count svg { width: 14px; height: 14px; fill: #111; }\n    .header-right {\n      display: flex;\n      align-items: center;\n      gap: 12px;\n    }\n    .write-btn {\n      background: #fff;\n      border: 1.5px solid #111;\n      border-radius: 6px;\n      padding: 8px 18px;\n      font-size: 14px;\n      font-weight: 600;\n      cursor: pointer;\n      transition: background .15s;\n    }\n    .write-btn:hover { background: #f5f5f5; }\n    .filter-icon { cursor: pointer; opacity: .75; }\n    .filter-icon:hover { opacity: 1; }\n\n    /* ── Masonry Grid ── */\n    .reviews-grid {\n      columns: 6 180px;\n      column-gap: 12px;\n    }\n\n    /* ── Card ── */\n    .review-card {\n      break-inside: avoid;\n      margin-bottom: 12px;\n      background: #fff;\n      border-radius: 0;\n      overflow: hidden;\n      cursor: pointer;\n      position: relative;\n    }\n\n    /* Media container */\n    .card-media {\n      position: relative;\n      width: 100%;\n      overflow: hidden;\n    }\n    .card-media img {\n      width: 100%;\n      display: block;\n      object-fit: cover;\n    }\n\n    /* Play button overlay for videos */\n    .play-overlay {\n      position: absolute;\n      inset: 0;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      pointer-events: none;\n    }\n    .play-btn {\n      width: 52px;\n      height: 52px;\n      background: rgba(255,255,255,0.92);\n      border-radius: 50%;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      box-shadow: 0 2px 8px rgba(0,0,0,0.18);\n    }\n    .play-btn svg {\n      width: 20px;\n      height: 20px;\n      fill: #111;\n      margin-left: 3px;\n    }\n\n    /* Card body */\n    .card-body {\n      padding: 10px 10px 12px;\n    }\n\n    .reviewer-row {\n      display: flex;\n      align-items: center;\n      gap: 5px;\n      margin-bottom: 2px;\n    }\n    .reviewer-name {\n      font-size: 13px;\n      font-weight: 600;\n      color: #111;\n    }\n    .verified-badge {\n      display: flex;\n      align-items: center;\n      gap: 3px;\n      font-size: 11px;\n      color: #555;\n    }\n    .verified-badge svg {\n      width: 13px;\n      height: 13px;\n      fill: #1a73e8;\n    }\n    .review-date {\n      font-size: 11px;\n      color: #888;\n      margin-bottom: 6px;\n    }\n    .stars-small {\n      display: flex;\n      gap: 1px;\n      margin-bottom: 6px;\n    }\n    .stars-small .star {\n      width: 14px;\n      height: 14px;\n      fill: #f5a623;\n    }\n    .stars-small .star.empty {\n      fill: #ddd;\n    }\n    .review-text {\n      font-size: 13px;\n      color: #222;\n      line-height: 1.45;\n      margin-bottom: 8px;\n    }\n    .product-label {\n      font-size: 11px;\n      color: #888;\n      margin-bottom: 2px;\n    }\n    .product-variant {\n      font-size: 11px;\n      color: #555;\n      margin-bottom: 8px;\n    }\n    .product-row {\n      display: flex;\n      align-items: center;\n      gap: 8px;\n      border-top: 1px solid #f0f0f0;\n      padding-top: 8px;\n    }\n    .product-thumb {\n      width: 40px;\n      height: 40px;\n      object-fit: cover;\n      border-radius: 4px;\n      flex-shrink: 0;\n    }\n    .product-name {\n      font-size: 11px;\n      color: #444;\n      line-height: 1.35;\n    }\n\n    /* Load more */\n    .load-more-wrap {\n      text-align: center;\n      margin-top: 24px;\n    }\n    .load-more-btn {\n      background: #fff;\n      border: 1.5px solid #111;\n      border-radius: 6px;\n      padding: 10px 32px;\n      font-size: 14px;\n      font-weight: 600;\n      cursor: pointer;\n      transition: background .15s;\n    }\n    .load-more-btn:hover { background: #f5f5f5; }\n\n    @media (max-width: 900px) {\n      .reviews-grid { columns: 3 160px; }\n    }\n    @media (max-width: 560px) {\n      .reviews-grid { columns: 2 140px; }\n    }\n  </style>\n</head>\n<body>\n\n  <!-- Header -->\n  <div class=\"reviews-header\">\n    <div class=\"header-left\">\n      <div class=\"stars-large\">\n        <svg viewBox=\"0 0 24 24\" class=\"star\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        <svg viewBox=\"0 0 24 24\" class=\"star\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        <svg viewBox=\"0 0 24 24\" class=\"star\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        <svg viewBox=\"0 0 24 24\" class=\"star\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        <svg viewBox=\"0 0 24 24\" class=\"star\" style=\"fill:url(#half) #ddd\"><defs><linearGradient id=\"half\"><stop offset=\"70%\" stop-color=\"#f5a623\"/><stop offset=\"70%\" stop-color=\"#ddd\"/></linearGradient></defs><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n      </div>\n      <div class=\"review-count\">\n        663 Bewertungen\n        <svg viewBox=\"0 0 24 24\"><path d=\"M7 10l5 5 5-5z\"/></svg>\n      </div>\n    </div>\n    <div class=\"header-right\">\n      <button class=\"write-btn\">Bewertung schreiben</button>\n      <svg class=\"filter-icon\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"><line x1=\"4\" y1=\"6\" x2=\"20\" y2=\"6\"/><line x1=\"8\" y1=\"12\" x2=\"16\" y2=\"12\"/><line x1=\"11\" y1=\"18\" x2=\"13\" y2=\"18\"/></svg>\n    </div>\n  </div>\n\n  <!-- Reviews Grid -->\n  <div class=\"reviews-grid\" id=\"reviewsGrid\"></div>\n\n  <div class=\"load-more-wrap\">\n    <button class=\"load-more-btn\">Mehr Bewertungen anzeigen</button>\n  </div>\n\n  <script>\n    const reviews = [\n      {\n        reviewer: \"Verena K.\", date: \"5/29/2026\", rating: 5,\n        text: \"Mega geile Farbe und sitzt alles super bequem 👍🏽☀️\",\n        variant: \"Rose Pink / M\",\n        product: \"DIVINE Scrunch Shorts - Rose Pink\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/28/OIzEepG0dR_UaoS2hWqx_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DIVINE_ScrunchShorts_RosePink_3_x50.webp?v=1762626928\"\n      },\n      {\n        reviewer: \"Anna Q.\", date: \"5/20/2026\", rating: 5,\n        text: \"Ein Set zum verlieben 🫶🏼\\nSitzt gut, es rutscht nix (besonders die Hose bleibt an Ort und Stelle)\\nIch brauch noch mehr Farben 🥸🤓\",\n        variant: \"Bordeaux Red / M\",\n        product: \"UNITY V-Shape Scrunch Shorts - Bordeaux Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/19/1EJNz-mO9.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_UNITY_Scrunch_Shorts_BordeauxRed_5_x50.webp?v=1765382588\"\n      },\n      {\n        reviewer: \"Anna Q.\", date: \"5/19/2026\", rating: 5,\n        text: \"Diese Farbe einfach grandios. Es sitzt wie eine zweite Haut - einfach bequem und richtig richtig schön. Gerade mein erstes Training absolviert und ich bin begeistert. Werde wieder bestellen.\",\n        variant: \"Deep Black / L\",\n        product: \"DAVOMI Double Twist Sport-BH - Deep Black\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/19/C01k20qL5_UIvdXmqoD_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DAVOMI_DoubleTwsist_SportBH_DeepBlack_6_x50.webp?v=1763675368\"\n      },\n      {\n        reviewer: \"Caroline J.\", date: \"5/17/2026\", rating: 5,\n        text: \"Fühlt sich super and und so ein schönen Ausschnitt im Rücken.\",\n        variant: \"Bordeaux Red / XS\",\n        product: \"DAVOMI Open Back T-Shirt - Bordeaux Red (Limited Edition)\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/16/FaO8gMxqb_Am4xTUGD1_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_OpenBack_T-Short_BordeauxRed_7_x50.webp?v=1765384065\"\n      },\n      {\n        reviewer: \"Stefanie I.\", date: \"5/5/2026\", rating: 5,\n        text: \"Mega top ,alles bleibt wo es ist 😉\",\n        variant: \"Bordeaux Red / L\",\n        product: \"DAVOMI Open Back T-Shirt - Bordeaux Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/5/QJwUkv7H4.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_OpenBack_T-Short_BordeauxRed_7_x50.webp?v=1765384065\"\n      },\n      {\n        reviewer: \"Stefanie I.\", date: \"5/5/2026\", rating: 5,\n        text: \"So schönes top , sehr geiler Stoff und mega Support für die bubies 😉\",\n        variant: \"Candy Red / M\",\n        product: \"LUXE Sculpt Tank - Candy Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/5/JYEmJJMeH.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Sculpt_Tank_CandyRed_1_x50.webp?v=1770764048\"\n      },\n      {\n        reviewer: \"Stefanie I.\", date: \"5/5/2026\", rating: 5,\n        text: \"So toller Stoff,so schön weich ☺️undvoll meine Farbe ❤️\",\n        variant: \"Candy Red / M\",\n        product: \"LUXE Sculpt Flared Leggings - Candy Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/5/5abasG2mT.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Flared_Leggings_CandyRed_1_x50.webp?v=1770763531\"\n      },\n      {\n        reviewer: \"Henry K.\", date: \"5/5/2026\", rating: 4,\n        text: \"Trägt sich sehr gut\",\n        variant: \"Deep Black / M\",\n        product: \"UNITY V-Shape Scrunch Leggings - Deep Black\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/5/5/7NnNGclKU.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_UNITY_Leggings_Deep_Black_3_x50.jpg?v=1731583690\"\n      },\n      {\n        reviewer: \"Verena K.\", date: \"4/28/2026\", rating: 5,\n        text: \"Tolle Luxe Capri, ich liebe sie für den Sommer ideal und sehr bequem! Noch mehr Luxe Varianten darüber würde ich mich sehr freuen. Danke 😙\",\n        variant: \"Sage Khaki / M\",\n        product: \"LUXE Sculpt Shorts - Sage Khaki\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/27/vFhGok7Ye_hA0_wu3zj_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Shorts_Khaki_6_x50.webp?v=1763673964\"\n      },\n      {\n        reviewer: \"Sarah H.\", date: \"4/27/2026\", rating: 5,\n        text: \"🤌🏻\",\n        variant: \"Sage Khaki / S\",\n        product: \"LUXE Sculpt Shorts - Sage Khaki\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/27/z5rm0As7d.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Shorts_Khaki_6_x50.webp?v=1763673964\"\n      },\n      {\n        reviewer: \"Loreen B.\", date: \"4/25/2026\", rating: 5,\n        text: \"Ich liebe dieses Top!! Und der rückenausschnitt ist der Wahnsinn!\",\n        variant: \"Sage Khaki / M\",\n        product: \"LUXE Sculpt Tank - Sage Khaki\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/25/ld6hPzUYp_T3UFlk002_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE-LUXE-Sculpt-Tank-Sage_Khaki-2_x50.webp?v=1750675145\"\n      },\n      {\n        reviewer: \"Karina N.\", date: \"4/15/2026\", rating: 5,\n        text: \"Sehr schön, ich liebe es 😍\",\n        variant: \"Deep Black / M\",\n        product: \"DIVINE Scrunch Shorts - Deep Black\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/15/vDJvbRawJ.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DIVINE_ScrunchShorts_DeepBlack_3_x50.webp?v=1762631303\"\n      },\n      {\n        reviewer: \"Verena K.\", date: \"4/12/2026\", rating: 5,\n        text: \"Bin sehr zufrieden, alles sitzt und hält bei jeder Übung perfekt!\",\n        variant: \"Deep Black / S\",\n        product: \"DAVOMI High Neck Sport-BH - Deep Black\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/12/p5JdDHjeS.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DAVOMI_High_Neck_Sport-BH_DeepBlack_6_x50.webp?v=1755419478\"\n      },\n      {\n        reviewer: \"Zu Hause Z.\", date: \"4/10/2026\", rating: 5,\n        text: \"Sitzt sehr gut, fühlt sich toll an, schneidet nicht ein. Die Pads im eingebauten BH sind teilweise sichtbar, aber das ist ja leider immer so. Kann man rausnehmen oder Andere benutzen 👌🏻\",\n        variant: \"Candy Red / M\",\n        product: \"LUXE Sculpt Tank - Candy Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/9/VPt3sT-fs.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Sculpt_Tank_CandyRed_1_x50.webp?v=1770764048\"\n      },\n      {\n        reviewer: \"Zu Hause Z.\", date: \"4/10/2026\", rating: 5,\n        text: \"Sitzt super, die Farbe ist sehr schön. Die Jacke ist dicker/ robuster als gedacht ❤️\",\n        variant: \"Candy Red / M\",\n        product: \"LUXE Flow Zip-Jacket - Candy Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/9/Go24iM02g.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Flow_Zip-Jacket_CandyRed_1_x50.webp?v=1770764244\"\n      },\n      {\n        reviewer: \"Zu Hause Z.\", date: \"4/10/2026\", rating: 4,\n        text: \"Sitzt super, sehr bequem, Farbe fantastisch, leider etwas durchsichtig.\",\n        variant: \"Candy Red / M\",\n        product: \"LUXE Sculpt Flared Leggings - Candy Red (Limited Edition)\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/10/__2siEyH3_ui_MMLUCv_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_LUXE_Flared_Leggings_CandyRed_1_x50.webp?v=1770763531\"\n      },\n      {\n        reviewer: \"Lela W.\", date: \"4/8/2026\", rating: 5,\n        text: \"Ich liebe alle meine Outfits von Optive. Sie sitzen und passen super.\",\n        variant: \"Deep Black / S\",\n        product: \"UNITY V-Shape Scrunch Leggings - Deep Black\",\n        mediaType: \"video\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/7/6_GMxMygn_87mBYSlJk_orig.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_UNITY_Leggings_Deep_Black_3_x50.jpg?v=1731583690\"\n      },\n      {\n        reviewer: \"Stefanie U.\", date: \"4/4/2026\", rating: 5,\n        text: \"Super schönes Oberteil! Finde allerdings dass es ein bisschen kleiner ausfällt.\",\n        variant: \"Deep Black / M\",\n        product: \"DAVOMI High Neck Sport-BH - Deep Black\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/3/10OCpH5T6y.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DAVOMI_High_Neck_Sport-BH_DeepBlack_6_x50.webp?v=1755419478\"\n      },\n      {\n        reviewer: \"Chiara B.\", date: \"4/3/2026\", rating: 5,\n        text: \"Der BH sitzt einfach Perfekt! Wird auf jedenfall beim HYROX gleich verwendet😍\",\n        variant: \"Bordeaux Red / M\",\n        product: \"UNITY Sport-BH - Bordeaux Red (Limited Edition)\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/3/b4b_5ZLum.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_UNITY_Sport-BH_BordeauxRed_7_x50.webp?v=1765383440\"\n      },\n      {\n        reviewer: \"Chiara B.\", date: \"4/3/2026\", rating: 5,\n        text: \"Einfach sooo bequem und echt einfach der Hammer! Werde auf jedenfall wieder bestellen! Sitzt perfekt 😍\",\n        variant: \"Deep Black / M\",\n        product: \"DAVOMI Double Twist Sport-BH - Deep Black\",\n        mediaType: \"photo\",\n        mediaUrl: \"https://images.loox.io/uploads/2026/4/3/a5tir5U2EC.jpg\",\n        productThumb: \"https://cdn.shopify.com/s/files/1/0643/0736/4057/files/OPTIVE_DAVOMI_DoubleTwsist_SportBH_DeepBlack_6_x50.webp?v=1763675368\"\n      }\n    ];\n\n    function starsSVG(rating) {\n      let html = '<div class=\"stars-small\">';\n      for (let i = 1; i <= 5; i++) {\n        const cls = i <= rating ? 'star' : 'star empty';\n        html += `<svg viewBox=\"0 0 24 24\" class=\"${cls}\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>`;\n      }\n      html += '</div>';\n      return html;\n    }\n\n    function verifiedSVG() {\n      return `<svg viewBox=\"0 0 24 24\"><path d=\"M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z\" fill=\"none\" stroke=\"#1a73e8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>`;\n    }\n\n    const grid = document.getElementById('reviewsGrid');\n\n    reviews.forEach(r => {\n      const card = document.createElement('div');\n      card.className = 'review-card';\n\n      const isVideo = r.mediaType === 'video';\n      const playBtn = isVideo ? `\n        <div class=\"play-overlay\">\n          <div class=\"play-btn\">\n            <svg viewBox=\"0 0 24 24\"><path d=\"M8 5v14l11-7z\"/></svg>\n          </div>\n        </div>` : '';\n\n      card.innerHTML = `\n        <div class=\"card-media\">\n          <img src=\"${r.mediaUrl}\" alt=\"Review by ${r.reviewer}\" loading=\"lazy\" />\n          ${playBtn}\n        </div>\n        <div class=\"card-body\">\n          <div class=\"reviewer-row\">\n            <span class=\"reviewer-name\">${r.reviewer}</span>\n            <span class=\"verified-badge\">${verifiedSVG()} Verifiziert</span>\n          </div>\n          <div class=\"review-date\">${r.date}</div>\n          ${starsSVG(r.rating)}\n          <div class=\"review-text\">${r.text.replace(/\\n/g, '<br>')}</div>\n          <div class=\"product-label\">Produktart:</div>\n          <div class=\"product-variant\">${r.variant}</div>\n          <div class=\"product-row\">\n            <img class=\"product-thumb\" src=\"${r.productThumb}\" alt=\"${r.product}\" />\n            <span class=\"product-name\">${r.product}</span>\n          </div>\n        </div>\n      `;\n\n      grid.appendChild(card);\n    });\n  </script>\n</body>\n</html>",
         "width": "wrapper",
         "color_scheme": "",
-        "icon_color": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "section-accordion-1": {
-      "type": "section-accordion",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "title": "Sustainable sourcing",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>We are committed to quality products that are manufactured ethically and sustainably. All of our pieces are traceable throughout the supply chain. We strive to ensure our products contribute to the well-being of people and planet, and our efforts put us on track towards a brighter future.</p>",
-            "aspect_ratio": 0.6
-          }
-        },
-        "image-0": {
-          "type": "image",
-          "settings": {
-            "title": "Ethical labor",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>Our founders Christina Smith and  Clement Savant founded Broadcast to break the norms of the jewelry industry. Cheap, disposable jewelry creates an incentive structure to bid out the work to the cheapest factory available.  We need to vote with our dollars for a more equitable world.</p>",
-            "aspect_ratio": 0.6
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "title": "Transparent values",
-            "heading_font_size": "heading-x-small",
-            "text": "<p>We hold true to to who we are.  We believe in equality and justice for all, and those beliefs permeate the work that we do and the jewelry we make.  Everything we do stands for our values and we try to think, speak, and act in a framework of positive change.  Cast out your voice and make a difference. </p>",
-            "aspect_ratio": 0.6
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "image-0",
-        "image-1"
-      ],
-      "settings": {
-        "default_open": false,
-        "title": "Sourcing & Materials",
-        "heading_font_size": "heading-x-small",
-        "show_icon": false,
-        "icon_name": "icon-award",
-        "icon_size": 20,
-        "width": "wrapper",
-        "color_scheme": "",
-        "icon_color": "",
-        "padding_top": 0,
-        "padding_bottom": 80
-      }
-    },
-    "section-hero": {
-      "type": "section-hero",
-      "blocks": {
-        "heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Recycled Materials",
-            "heading_font_size": "heading-medium",
-            "heading_tag": "automatic",
-            "padding_bottom": 8
-          }
-        },
-        "text-5": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We partner with high quality jewellers who only use recycled gold, AAA-grade gemstones, and ethically sourced diamonds.</p>",
-            "text_font_size": "body-medium",
-            "padding_bottom": 8
-          }
-        }
-      },
-      "block_order": [
-        "heading-1",
-        "text-5"
-      ],
-      "settings": {
-        "link": "",
-        "width": "wrapper--full",
-        "height": "five-fifty-height-hero",
-        "flex_align_desktop": "align--middle-center-desktop",
-        "content_width": 50,
-        "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_mobile": "align--middle-center-mobile",
-        "color_scheme": "scheme-2",
-        "show_text_background": false,
-        "overlay_type": "disabled",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "show_placeholder": true
-      }
-    },
-    "section-custom-content": {
-      "type": "section-custom-content",
-      "blocks": {
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "title": "Pieces to Keep Forever",
-            "heading_font_size": "heading-small",
-            "text": "<p>Thoughtfully designed jewelry to wear everyday</p>",
-            "text_font_size": "body-medium",
-            "flex_align": "align--middle-center",
-            "show_text_background": false,
-            "bg_color": "",
-            "color": "",
-            "overlay_type": "disabled",
-            "link_text": "Learn more",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false,
-            "heading_tag": "automatic"
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "title": "Latest Lookbook",
-            "heading_font_size": "heading-small",
-            "text": "<p>Our newest collection inspired by unique shapes</p>",
-            "text_font_size": "body-medium",
-            "flex_align": "align--middle-center",
-            "show_text_background": false,
-            "bg_color": "",
-            "color": "",
-            "overlay_type": "disabled",
-            "link_text": "Shop now",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false,
-            "heading_tag": "automatic"
-          }
-        }
-      },
-      "block_order": [
-        "image-2",
-        "image-3"
-      ],
-      "settings": {
-        "borders": false,
-        "gutters": true,
-        "width": "wrapper--full-padded",
-        "height": "sixty-fifty-height-hero",
-        "mobile_height": "four-fifty-height-hero--mobile",
-        "reverse_blocks": false,
-        "color_scheme": "scheme-10",
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "related": {
@@ -596,11 +325,8 @@
     "section-divider",
     "product",
     "section-announcement",
-    "section-accordion",
-    "section-accordion-0",
-    "section-accordion-1",
-    "section-hero",
-    "section-custom-content",
+    "section_custom_code_8nHDYJ",
+    "section_custom_code_L84jTU",
     "related"
   ]
 }

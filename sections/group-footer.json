@@ -14,22 +14,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "social": {
-          "type": "social",
-          "settings": {
-            "title": "About the Brand",
-            "heading_font_size": "heading-x-small",
-            "text": "",
-            "column_width": 25,
-            "enable_follow_on_shop": false,
-            "enable_accordion": false
-          }
-        },
         "linklist": {
           "type": "linklist",
           "settings": {
-            "linklist": "",
-            "title": "Customer Care",
+            "linklist": "catalog",
+            "title": "Product Categories",
             "heading_font_size": "heading-x-small",
             "column_width": 20,
             "enable_accordion": false
@@ -38,8 +27,8 @@
         "linklist-0": {
           "type": "linklist",
           "settings": {
-            "linklist": "",
-            "title": "Resources",
+            "linklist": "footer",
+            "title": "Policies",
             "heading_font_size": "heading-x-small",
             "column_width": 20,
             "enable_accordion": false
@@ -59,12 +48,11 @@
             "button_size": "",
             "button_style": "btn--outline",
             "show_social_links": false,
-            "column_width": 33
+            "column_width": 42
           }
         }
       },
       "block_order": [
-        "social",
         "linklist",
         "linklist-0",
         "newsletter"
