@@ -11,6 +11,28 @@
   "sections": {
     "section_hero_wMiYBm": {
       "type": "section-hero",
+      "blocks": {
+        "code_h6FjgE": {
+          "type": "code",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding:12px 0;\">\n  <h2 style=\"font-family:'Bricolage Grotesque', sans-serif; font-size:22px; letter-spacing:6px; margin:0; text-transform:uppercase; color:#fff; font-weight:700;\">UNITY LIMITED BORDEAUX RED EDITION</h2>\n</div>",
+            "padding_bottom": 8
+          }
+        },
+        "text_hCUdVA": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>UNITYLIMITED BORDEAUX RED EDITION</strong><br/>UNSERE BESTSELLER EXKLUSIV IN BORDEAUX RED</p>",
+            "text_font_size": "body-medium",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "code_h6FjgE",
+        "text_hCUdVA"
+      ],
       "name": "Image banner",
       "settings": {
         "image_1": "shopify://shop_images/banner_chmap.png",
@@ -19,7 +41,8 @@
         "height": "image-height",
         "flex_align_desktop": "align--middle-center-desktop",
         "content_width": 50,
-        "mobile_height": "screen-height-three-quarters--mobile",
+        "mobile_image": "shopify://shop_images/T-Shirts.webp",
+        "mobile_height": "screen-height-one-half--mobile",
         "flex_align_mobile": "align--middle-center-mobile",
         "color_scheme": "",
         "show_text_background": false,
