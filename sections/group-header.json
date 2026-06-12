@@ -194,14 +194,6 @@
             "padding_bottom": 8
           }
         },
-        "socials": {
-          "type": "socials",
-          "settings": {
-            "width": "full",
-            "pin_to_bottom": false,
-            "padding_bottom": 10
-          }
-        },
         "divider-1": {
           "type": "divider",
           "settings": {
@@ -231,7 +223,6 @@
         "product",
         "product-0",
         "divider-0",
-        "socials",
         "divider-1",
         "localization"
       ],
