@@ -194,13 +194,6 @@
             "padding_bottom": 8
           }
         },
-        "divider-1": {
-          "type": "divider",
-          "settings": {
-            "show_line": true,
-            "padding_bottom": 14
-          }
-        },
         "localization": {
           "type": "localization",
           "settings": {
@@ -223,7 +216,6 @@
         "product",
         "product-0",
         "divider-0",
-        "divider-1",
         "localization"
       ],
       "settings": {
