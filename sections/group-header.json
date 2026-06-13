@@ -65,14 +65,15 @@
           "type": "image",
           "settings": {
             "position": "1",
+            "image": "shopify://shop_images/OPTIVE_LUXE_Shorts_DeepBlacki_2.webp",
             "aspect_ratio": 1,
             "wide_image": false,
             "overlay_type": "text",
-            "title": "",
+            "title": "Shop Shorts Collection",
             "heading_font_size": "heading-small",
             "link_text": "",
             "text_font_size": "body-medium",
-            "link": "",
+            "link": "shopify://collections/shorts",
             "text_color": "#fcfbf9"
           }
         },
@@ -80,6 +81,7 @@
           "type": "image",
           "settings": {
             "position": "1",
+            "image": "shopify://shop_images/tinywow_DSC07451_61563819.jpg",
             "aspect_ratio": 1,
             "wide_image": false,
             "overlay_type": "text",
